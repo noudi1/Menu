@@ -1,0 +1,13 @@
+h1{ color:DAFABB;font-size:50px }
+body{ margin:5%; background-color:beige; }
+a{ margin:5%;
+background-color:gray; 
+font-size: 30px;}
+table { text-align:justify; }
+header{ background-color:beige; }
+a { text-decoration:none; color: gray;}
+a:hover{ background-color:beige 
+	padding: 4; 
+border-right: 50px}
+
+img{ display:block; }
